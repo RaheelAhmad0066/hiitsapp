@@ -1,0 +1,999 @@
+{
+"Exercise List":[
+ {
+  "Count": 1,
+  "Exercise": "Box Squat Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 2,
+  "Exercise": "Stepup Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes",
+  "Combined": "Quadriceps, Glutes"
+ },
+ {
+  "Count": 3,
+  "Exercise": "Split Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 4,
+  "Exercise": "High-Knee Run",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Calves",
+  "Combined": "Quadriceps, Hamstrings, Calves"
+ },
+ {
+  "Count": 5,
+  "Exercise": "Butt Kicker",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Hamstrings,",
+  "Specific Muscle Group 2": "Glutes",
+  "Combined": "Hamstrings, Glutes"
+ },
+ {
+  "Count": 6,
+  "Exercise": "Skater Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 7,
+  "Exercise": "Power Skip",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Calves",
+  "Combined": "Quadriceps, Glutes, Calves"
+ },
+ {
+  "Count": 8,
+  "Exercise": "Super Skater Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 9,
+  "Exercise": "Sprinter Step",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings",
+  "Combined": "Quadriceps, Hamstrings"
+ },
+ {
+  "Count": 10,
+  "Exercise": "Sprinter Skip",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 11,
+  "Exercise": "Running Lunge",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 12,
+  "Exercise": "Long Jump To Backward Hop",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings,",
+  "Specific Muscle Group 4": "Calves",
+  "Combined": "Quadriceps, Glutes, Hamstrings, Calves"
+ },
+ {
+  "Count": 13,
+  "Exercise": "Shuffle In Place",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings,",
+  "Specific Muscle Group 4": "Calves",
+  "Combined": "Quadriceps, Glutes, Hamstrings, Calves"
+ },
+ {
+  "Count": 14,
+  "Exercise": "Carioca",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings,",
+  "Specific Muscle Group 4": "Calves",
+  "Combined": "Quadriceps, Glutes, Hamstrings, Calves"
+ },
+ {
+  "Count": 15,
+  "Exercise": "In-And-Out Squat",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 16,
+  "Exercise": "Skier Swing",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Hamstrings,",
+  "Specific Muscle Group 2": "Back,",
+  "Specific Muscle Group 3": "Shoulders",
+  "Combined": "Hamstrings, Back, Shoulders"
+ },
+ {
+  "Count": 17,
+  "Exercise": "Single Leg Swing",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Hamstrings,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Hamstrings, Glutes, Core"
+ },
+ {
+  "Count": 18,
+  "Exercise": "Slam",
+  "General Muscle Group": "Upper Body\/Core",
+  "Specific Muscle Group 1": "Shoulders,",
+  "Specific Muscle Group 2": "Arms,",
+  "Specific Muscle Group 3": "Abdominals",
+  "Combined": "Shoulders, Arms, Abdominals"
+ },
+ {
+  "Count": 19,
+  "Exercise": "Rotational Chop",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Obliques,",
+  "Specific Muscle Group 2": "Abdominals,",
+  "Specific Muscle Group 3": "Shoulders",
+  "Combined": "Obliques, Abdominals, Shoulders"
+ },
+ {
+  "Count": 20,
+  "Exercise": "Low Rotational Chop",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Obliques,",
+  "Specific Muscle Group 2": "Abdominals,",
+  "Specific Muscle Group 3": "Shoulders",
+  "Combined": "Obliques, Abdominals, Shoulders"
+ },
+ {
+  "Count": 21,
+  "Exercise": "Low Diagonal Chop",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Obliques,",
+  "Specific Muscle Group 2": "Abdominals,",
+  "Specific Muscle Group 3": "Shoulders",
+  "Combined": "Obliques, Abdominals, Shoulders"
+ },
+ {
+  "Count": 22,
+  "Exercise": "Halo Slam",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Shoulders,",
+  "Specific Muscle Group 2": "Arms,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Shoulders, Arms, Core"
+ },
+ {
+  "Count": 23,
+  "Exercise": "Mountain Climber Switch",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 24,
+  "Exercise": "Running Mountain Climber",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 25,
+  "Exercise": "Spider Mountain Climber",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 26,
+  "Exercise": "Side To Side Mountain Climber",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 27,
+  "Exercise": "Diagonal Mountain Climber",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 28,
+  "Exercise": "Semicircle Mountain Climber",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 29,
+  "Exercise": "Jumping Mountain Climber",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 30,
+  "Exercise": "Low Jumping Mountain Climber",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 31,
+  "Exercise": "Blast-Off Pushups",
+  "General Muscle Group": "Upper Body",
+  "Specific Muscle Group 1": "Chest,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Triceps",
+  "Combined": "Chest, Shoulders, Triceps"
+ },
+ {
+  "Count": 32,
+  "Exercise": "Seal Jack",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 33,
+  "Exercise": "Juming Jack",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 34,
+  "Exercise": "Cross Body Jumping Jack",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 35,
+  "Exercise": "Predator Jack",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 36,
+  "Exercise": "Plank Jack",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Shoulders",
+  "Combined": "Abdominals, Shoulders"
+ },
+ {
+  "Count": 37,
+  "Exercise": "Pushup Jack",
+  "General Muscle Group": "Upper Body",
+  "Specific Muscle Group 1": "Chest,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Triceps",
+  "Combined": "Chest, Shoulders, Triceps"
+ },
+ {
+  "Count": 38,
+  "Exercise": "Breakdancer",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Shoulders,",
+  "Specific Muscle Group 2": "Core,",
+  "Specific Muscle Group 3": "Quadriceps",
+  "Combined": "Shoulders, Core, Quadriceps"
+ },
+ {
+  "Count": 39,
+  "Exercise": "Donkey Kick",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Glutes,",
+  "Specific Muscle Group 2": "Hamstrings",
+  "Combined": "Glutes, Hamstrings"
+ },
+ {
+  "Count": 40,
+  "Exercise": "Low Box Runner",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Calves",
+  "Combined": "Quadriceps, Calves"
+ },
+ {
+  "Count": 41,
+  "Exercise": "Low Box Lateral Runner",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Calves",
+  "Combined": "Quadriceps, Glutes, Calves"
+ },
+ {
+  "Count": 42,
+  "Exercise": "Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Chest,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Quadriceps",
+  "Combined": "Chest, Shoulders, Quadriceps"
+ },
+ {
+  "Count": 43,
+  "Exercise": "Lateral 3 Steps",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 44,
+  "Exercise": "Icky Shuffle",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 45,
+  "Exercise": "Alternating Fast Feet",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Calves",
+  "Combined": "Quadriceps, Calves"
+ },
+ {
+  "Count": 46,
+  "Exercise": "Double Fast Feet",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Calves",
+  "Combined": "Quadriceps, Calves"
+ },
+ {
+  "Count": 47,
+  "Exercise": "Pogo Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Calves,",
+  "Specific Muscle Group 2": "Quadriceps",
+  "Combined": "Calves, Quadriceps"
+ },
+ {
+  "Count": 48,
+  "Exercise": "Single Leg Pogo Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Calves,",
+  "Specific Muscle Group 2": "Quadriceps",
+  "Combined": "Calves, Quadriceps"
+ },
+ {
+  "Count": 49,
+  "Exercise": "Front To Back Hop",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Calves",
+  "Combined": "Quadriceps, Hamstrings, Calves"
+ },
+ {
+  "Count": 50,
+  "Exercise": "Side Tos Ide Hop",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Calves",
+  "Combined": "Quadriceps, Hamstrings, Calves"
+ },
+ {
+  "Count": 51,
+  "Exercise": "Plank Speed Reach",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Shoulders",
+  "Combined": "Abdominals, Shoulders"
+ },
+ {
+  "Count": 52,
+  "Exercise": "Plank Hand Tap",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Shoulders",
+  "Combined": "Abdominals, Shoulders"
+ },
+ {
+  "Count": 53,
+  "Exercise": "Plank Elbow Tap",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Shoulders",
+  "Combined": "Abdominals, Shoulders"
+ },
+ {
+  "Count": 54,
+  "Exercise": "Plank Shoulder Tap",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Shoulders",
+  "Combined": "Abdominals, Shoulders"
+ },
+ {
+  "Count": 55,
+  "Exercise": "Plank Hip Tap",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Glutes",
+  "Combined": "Abdominals, Glutes"
+ },
+ {
+  "Count": 56,
+  "Exercise": "Plank Knee Tap",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Hip",
+  "Specific Muscle Group 3": "Flexors",
+  "Combined": "Abdominals, Hip Flexors"
+ },
+ {
+  "Count": 57,
+  "Exercise": "Plank Toe Tap",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Hip",
+  "Specific Muscle Group 3": "Flexors",
+  "Combined": "Abdominals, Hip Flexors"
+ },
+ {
+  "Count": 58,
+  "Exercise": "Quad Pushup",
+  "General Muscle Group": "Upper Body",
+  "Specific Muscle Group 1": "Chest,",
+  "Specific Muscle Group 2": "Triceps,",
+  "Specific Muscle Group 3": "Shoulders",
+  "Combined": "Chest, Triceps, Shoulders"
+ },
+ {
+  "Count": 59,
+  "Exercise": "Face Melter",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Calves,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Calves, Core"
+ },
+ {
+  "Count": 60,
+  "Exercise": "Punch",
+  "General Muscle Group": "Upper Body",
+  "Specific Muscle Group 1": "Shoulders,",
+  "Specific Muscle Group 2": "Chest,",
+  "Specific Muscle Group 3": "Arms",
+  "Combined": "Shoulders, Chest, Arms"
+ },
+ {
+  "Count": 61,
+  "Exercise": "Lunge Runner",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 62,
+  "Exercise": "Plyo ",
+  "General Muscle Group": "ower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Calves",
+  "Combined": "Quadriceps, Glutes, Calves"
+ },
+ {
+  "Count": 63,
+  "Exercise": "Fast Feet On Hands",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Shoulders",
+  "Combined": "Abdominals, Shoulders"
+ },
+ {
+  "Count": 64,
+  "Exercise": "T-Rotation",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Obliques,",
+  "Specific Muscle Group 3": "Shoulders",
+  "Combined": "Abdominals, Obliques, Shoulders"
+ },
+ {
+  "Count": 65,
+  "Exercise": "Tuck Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Calves",
+  "Combined": "Quadriceps, Glutes, Calves"
+ },
+ {
+  "Count": 66,
+  "Exercise": "Speed Walkout",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 67,
+  "Exercise": "Plyo Single-Leg Hip Trust",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Glutes,",
+  "Specific Muscle Group 2": "Hamstrings",
+  "Combined": "Glutes, Hamstrings"
+ },
+ {
+  "Count": 68,
+  "Exercise": "Plyo Alternating Single-Leg Hip Trust",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Glutes,",
+  "Specific Muscle Group 2": "Hamstrings",
+  "Combined": "Glutes, Hamstrings"
+ },
+ {
+  "Count": 69,
+  "Exercise": "Rolling Squat Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Calves",
+  "Combined": "Quadriceps, Glutes, Calves"
+ },
+ {
+  "Count": 70,
+  "Exercise": "Navy Seal",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Chest,",
+  "Specific Muscle Group 2": "Triceps,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Chest, Triceps, Core"
+ },
+ {
+  "Count": 71,
+  "Exercise": "Feat Elevated Pushup",
+  "General Muscle Group": "Upper Body",
+  "Specific Muscle Group 1": "Chest,",
+  "Specific Muscle Group 2": "Triceps,",
+  "Specific Muscle Group 3": "Shoulders",
+  "Combined": "Chest, Triceps, Shoulders"
+ },
+ {
+  "Count": 72,
+  "Exercise": "Levitating Lunge",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 73,
+  "Exercise": "Situp to Hipup",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Hip",
+  "Specific Muscle Group 3": "Flexors",
+  "Combined": "Abdominals, Hip Flexors"
+ },
+ {
+  "Count": 74,
+  "Exercise": "Bulgarian Split Squat",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes,",
+  "Specific Muscle Group 3": "Hamstrings",
+  "Combined": "Quadriceps, Glutes, Hamstrings"
+ },
+ {
+  "Count": 75,
+  "Exercise": "Side Plank",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Obliques,",
+  "Specific Muscle Group 2": "Abdominals",
+  "Combined": "Obliques, Abdominals"
+ },
+ {
+  "Count": 76,
+  "Exercise": "Discus",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Shoulders,",
+  "Specific Muscle Group 2": "Core,",
+  "Specific Muscle Group 3": "Quadriceps",
+  "Combined": "Shoulders, Core, Quadriceps"
+ },
+ {
+  "Count": 77,
+  "Exercise": "Shadow Boxing",
+  "General Muscle Group": "Upper Body",
+  "Specific Muscle Group 1": "Shoulders,",
+  "Specific Muscle Group 2": "Chest,",
+  "Specific Muscle Group 3": "Arms",
+  "Combined": "Shoulders, Chest, Arms"
+ },
+ {
+  "Count": 78,
+  "Exercise": "Bear Crawl",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Shoulders,",
+  "Specific Muscle Group 3": "Core",
+  "Combined": "Quadriceps, Shoulders, Core"
+ },
+ {
+  "Count": 79,
+  "Exercise": "Sprinter Situp",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Hip",
+  "Specific Muscle Group 3": "Flexors",
+  "Combined": "Abdominals, Hip Flexors"
+ },
+ {
+  "Count": 80,
+  "Exercise": "Lateral Lunge",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Glutes,",
+  "Specific Muscle Group 2": "Quadriceps,",
+  "Specific Muscle Group 3": "Adductors",
+  "Combined": "Glutes, Quadriceps, Adductors"
+ },
+ {
+  "Count": 81,
+  "Exercise": "Overhead Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 82,
+  "Exercise": "Hands Elevated Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 83,
+  "Exercise": "Low-Box Runner Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 84,
+  "Exercise": "Low-Box Lateral Runner Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 85,
+  "Exercise": "Feet Elevated Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 86,
+  "Exercise": "Stepup Jump Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 87,
+  "Exercise": "Deadstop Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 88,
+  "Exercise": "Blocked Feet Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 89,
+  "Exercise": "Single Leg Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 90,
+  "Exercise": "Single Arm Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 91,
+  "Exercise": "Archer Pushup Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 92,
+  "Exercise": "Side-to-side Pushup Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 93,
+  "Exercise": "Spider Pushup Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 94,
+  "Exercise": "Skater Jump Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 95,
+  "Exercise": "Lateral Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 96,
+  "Exercise": "Broadjump Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 97,
+  "Exercise": "Breakdancer Burpee",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 98,
+  "Exercise": "Step Up Jump",
+  "General Muscle Group": "Lower Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Glutes",
+  "Combined": "Quadriceps, Glutes"
+ },
+ {
+  "Count": 99,
+  "Exercise": "Lizard Crawl",
+  "General Muscle Group": "Full Body",
+  "Specific Muscle Group 1": "Quadriceps,",
+  "Specific Muscle Group 2": "Hamstrings,",
+  "Specific Muscle Group 3": "Chest,",
+  "Specific Muscle Group 4": "Shoulders,",
+  "Specific Muscle Group 5": "Core",
+  "Combined": "Quadriceps, Hamstrings, Chest, Shoulders, Core"
+ },
+ {
+  "Count": 100,
+  "Exercise": "Bird Dog Plank",
+  "General Muscle Group": "Core",
+  "Specific Muscle Group 1": "Abdominals,",
+  "Specific Muscle Group 2": "Lower",
+  "Specific Muscle Group 3": "Back,",
+  "Specific Muscle Group 4": "Glutes,",
+  "Specific Muscle Group 5": "Shoulders",
+  "Combined": "Abdominals, Lower Back, Glutes, Shoulders"
+ }
+],
+"General Muscle Table":[
+ {
+  "General Muscle Grouping": "Lower Body"
+ },
+ {
+  "General Muscle Grouping": "Full Body"
+ },
+ {
+  "General Muscle Grouping": "Upper Body"
+ },
+ {
+  "General Muscle Grouping": "Core"
+ },
+ {
+  "General Muscle Grouping": "Upper Body"
+ },
+ {
+  "General Muscle Grouping": "Lower Body"
+ }
+],
+"Specific Muscle Table":[
+ {
+  "General Muscle Category": "Core",
+  "Specific Mucle Table": "Abdominals"
+ },
+ {
+  "General Muscle Category": "Lower Body",
+  "Specific Mucle Table": "Adductors"
+ },
+ {
+  "General Muscle Category": "Upper Body",
+  "Specific Mucle Table": "Arms"
+ },
+ {
+  "General Muscle Category": "Core",
+  "Specific Mucle Table": "Back"
+ },
+ {
+  "General Muscle Category": "Lower Body",
+  "Specific Mucle Table": "Calves"
+ },
+ {
+  "General Muscle Category": "Upper Body",
+  "Specific Mucle Table": "Chest"
+ },
+ {
+  "General Muscle Category": "Lower Body",
+  "Specific Mucle Table": "Hip Flexors"
+ },
+ {
+  "General Muscle Category": "Lower Body",
+  "Specific Mucle Table": "Glutes"
+ },
+ {
+  "General Muscle Category": "Lower Body",
+  "Specific Mucle Table": "Hamstrings"
+ },
+ {
+  "General Muscle Category": "Core",
+  "Specific Mucle Table": "Obliques"
+ },
+ {
+  "General Muscle Category": "Lower Body",
+  "Specific Mucle Table": "Quadriceps"
+ },
+ {
+  "General Muscle Category": "Upper Body",
+  "Specific Mucle Table": "Shoulders"
+ },
+ {
+  "General Muscle Category": "Upper Body",
+  "Specific Mucle Table": "Triceps"
+ }
+]
+}
